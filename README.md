@@ -38,7 +38,7 @@
 
 ### 2. 運行程序
 
-#### GUI 使用方法：
+####  使用方法：
 
 1. 雙擊運行 `QR Code Generator.exe`。
 2. 點擊 "Open Excel File" 按鈕，選擇您的 `input.xlsx` 文件。
