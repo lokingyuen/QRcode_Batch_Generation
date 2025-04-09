@@ -49,4 +49,4 @@
 
 所有生成的 QR 代碼圖片將保存為 PNG 格式，並存儲在您選擇的文件夾中。每個圖片將根據 Excel 中的第一列命名（例如 `QR_Code_1.png`）。
 
-Friendships never go out of style, But betrayal will
+> Friendships never go out of style, But betrayal will
