@@ -1,4 +1,4 @@
-('C:\\Users\\klo\\Desktop\\QRcode\\build\\QRcodeGenerater\\PYZ-00.pyz',
+('D:\\GitHub\\QRcode_Batch_Generation\\build\\QRcodeGenerater\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\klo\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
